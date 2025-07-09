@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 ¡Hola! Soy Jordi Alcacer Coromina, desarrollador Fullstack Junior con una sólida base en tecnologías web modernas.<br>Me especializo en la creación de aplicaciones robustas y funcionales, combinando el desarrollo del lado del cliente con herramientas como React, Tailwind CSS y JavaScript, y del lado del servidor con PHP, Java, Node.js y bases de datos como MySQL, PostgreSQL y Supabase.<br><br>Siempre estoy en constante aprendizaje, motivado por los desafíos y comprometido con escribir código limpio y escalable.<br>Estoy abierto a colaborar en proyectos que aporten valor y me permitan seguir creciendo profesionalmente.
+👋 ¡Hola! Soy Jordi Alcacer, desarrollador Fullstack Junior con una sólida base en tecnologías web modernas.<br>Me especializo en la creación de aplicaciones robustas y funcionales, combinando el desarrollo del lado del cliente con herramientas como React, Tailwind CSS y JavaScript, y del lado del servidor con PHP, Java, Node.js y bases de datos como MySQL, PostgreSQL y Supabase.<br><br>Siempre estoy en constante aprendizaje, motivado por los desafíos y comprometido con escribir código limpio y escalable.<br>Estoy abierto a colaborar en proyectos que aporten valor y me permitan seguir creciendo profesionalmente.
 
 
 ## 🌐 Socials:
